@@ -1,0 +1,25 @@
+.items-container {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 30px;
+}
+.avatarItem-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 30px;
+  margin-right: 20px;
+}
+.avatar-container {
+  display: flex;
+}
+.image-size {
+  width: 500px;
+  height: 250px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+.content {
+  font-family: 'Roboto';
+  color: #2f4f4f;
+}
